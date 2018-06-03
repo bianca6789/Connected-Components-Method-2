@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1527949607 source:c:\users\alex\desktop\connected components method 2\functions2.c
+	"functions2.h"
+
+1527949610 c:\users\alex\desktop\connected components method 2\functions2.h
+	<stdio.h>
+
+1527949605 source:c:\users\alex\desktop\connected components method 2\main2.c
+	"functions2.h"
+
